@@ -1,0 +1,3 @@
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_05/tmp/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_05/tmp/CMakeFiles/edit_cache.dir
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_05/tmp/CMakeFiles/oop_exercise_05.dir

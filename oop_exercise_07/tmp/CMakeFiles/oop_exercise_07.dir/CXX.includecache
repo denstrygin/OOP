@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_07/oop_exercise_07.cpp
+iostream
+-
+fstream
+-
+exception
+-
+list
+-
+vector
+-
+string
+-
+utility
+-
+memory
+-
+

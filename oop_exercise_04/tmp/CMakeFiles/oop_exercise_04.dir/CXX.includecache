@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_04/figures.h
+array
+-
+cmath
+-
+numeric
+-
+iostream
+-
+vertex_t.h
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_04/vertex_t.h
+
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_04/oop_exercise_04.cpp
+iostream
+-
+tuple
+-
+fstream
+-
+string
+-
+vertex_t.h
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_04/vertex_t.h
+figures.h
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_04/figures.h
+
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/oop_exercise_04/vertex_t.h
+cmath
+-
+utility
+-
+iostream
+-
+

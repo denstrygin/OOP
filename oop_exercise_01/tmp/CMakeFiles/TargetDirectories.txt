@@ -1,0 +1,3 @@
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/lab1/tmp/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/lab1/tmp/CMakeFiles/edit_cache.dir
+/mnt/c/Users/danst/OneDrive/Документы/GitHub/OOP/lab1/tmp/CMakeFiles/lab1.dir

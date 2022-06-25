@@ -1,0 +1,23 @@
+Trapeze 1 1 2 2 3 3 
+Pentagon 4 4 5 5 
+Rhombus 4 4 5 5 6 6 
+Trapeze 7 7 7 7 7 7 
+Trapeze 1 1 2 2 3 3 
+Pentagon 4 4 5 5 
+Rhombus 4 4 5 5 6 6 
+Trapeze 7 7 7 7 7 7 
+Trapeze 1 1 2 2 3 3 
+Pentagon 4 4 5 5 
+Rhombus 4 4 5 5 6 6 
+Trapeze 7 7 7 7 7 7 
+Trapeze 1 1 2 2 3 3 
+Pentagon 4 4 5 5 
+Rhombus 4 4 5 5 6 6 
+Trapeze 7 7 7 7 7 7 
+Trapeze 1 1 2 2 3 3 
+Pentagon 4 4 5 5 
+Rhombus 4 4 5 5 6 6 
+Trapeze 7 7 7 7 7 7 
+Trapeze 1 1 2 2 3 3 
+Pentagon 4 4 5 5 
+Rhombus 4 4 5 5 6 6 
